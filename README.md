@@ -1,5 +1,6 @@
 # Software-Development-Lessons
 A series of slides about software project and development (in brazilian portuguese) used in my classes.
+New course materials all wednesdays!
 
 ** Fiquem a vontade para utilizar o material e aprender o que puderem com ele **
 ** Lembrem-se de me retribuir ou agradecer se isto lhe for útil algum dia**
